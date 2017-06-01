@@ -1,0 +1,7 @@
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\bin\Debug\TaxiNUnitTest.dll
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\bin\Debug\TaxiNUnitTest.pdb
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.csprojResolveAssemblyReference.cache
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.dll
+c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.pdb

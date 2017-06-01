@@ -1,2 +1,0 @@
-c:\users\tasin\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
-C:\Users\Hardy Drachmann\Documents\Visual Studio 2015\Projects\exam_Test\Test\bin\Debug\Test.exe.config
