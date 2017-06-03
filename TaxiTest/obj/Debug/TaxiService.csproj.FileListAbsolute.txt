@@ -5,3 +5,11 @@ c:\users\tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiTest\bin\Debug
 c:\users\tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiTest\bin\Debug\TaxiTest.pdb
 c:\users\tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiTest\bin\Debug\Ninject.dll
 c:\users\tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiTest\bin\Debug\Ninject.xml
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\bin\Debug\TaxiTest.exe.config
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\obj\Debug\TaxiTest.exe
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\obj\Debug\TaxiTest.pdb
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\bin\Debug\TaxiTest.exe
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\bin\Debug\TaxiTest.pdb
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\bin\Debug\Ninject.dll
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\bin\Debug\Ninject.xml
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiTest\obj\Debug\TaxiService.csprojResolveAssemblyReference.cache

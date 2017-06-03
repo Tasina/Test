@@ -1,15 +1,27 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Ninject;
+using NUnit.Framework;
+using System;
 
 namespace TaxiNUnitTest
 {
-    [TestClass]
+    [TestFixture]
     public class TaxiTest
     {
-        [TestMethod]
-        public void TestMethod2()
+        TaxiService service;
+        [SetUp]
+        public void SetUp()
         {
-            Assert.IsTrue(true);
+            IKernel kernel = new StandardKernel(new NinjectTaxiModule());
+            ITaxi cab = kernel.Get<TaxiCab>();
+            ITaxi bus = kernel.Get<TaxiBus>();
+
+            service = new TaxiService(cab, bus);
+        }
+
+        [Test]
+        public void Fail_If_No_Persons()
+        {
+            Assert.Catch<Exception>(() => service.CalculateTotalPrice(100, 0));
         }
     }
 }

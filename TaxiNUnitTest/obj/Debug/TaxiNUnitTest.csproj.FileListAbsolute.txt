@@ -5,3 +5,14 @@ c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\bin\
 c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.csprojResolveAssemblyReference.cache
 c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.dll
 c:\Users\Tasin\documents\visual studio 2015\Projects\TaxiTest\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.pdb
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\TaxiNUnitTest.dll
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\TaxiNUnitTest.pdb
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\Ninject.dll
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\TaxiTest.exe
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\TaxiTest.pdb
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\Ninject.xml
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.dll
+C:\Users\Tasin\Desktop\EksamOpgaver\Test\TaxiNUnitTest\obj\Debug\TaxiNUnitTest.pdb
