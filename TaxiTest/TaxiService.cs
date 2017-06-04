@@ -17,6 +17,7 @@ public class TaxiService
 
     private float kmDiscountThreshold = 50;
     private float capacityDiscountThreshold = 9;
+    private float discount = 0.1f;
 
     public float CalculateTotalPrice(float km, int persons) {
         if (persons < 1)
@@ -37,10 +38,10 @@ public class TaxiService
         } while (personsLeft > 0);
         
         if (km >= kmDiscountThreshold && persons >= capacityDiscountThreshold)
-            totalPrice -= totalPrice * 0.1f;
+            totalPrice -= totalPrice * discount;
 
         return totalPrice;
-    } 
+    }
 }
 
 
